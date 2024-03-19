@@ -1,0 +1,18 @@
+    body {
+    font-family: verdana;
+     color: black;
+    }
+    h1 {
+    color: #D00E80;
+    text-align: center;
+    }
+    p {
+    color: #D00E80;
+    text-align: center;
+    }
+    .vert{
+        color: #008000;
+    }
+    #mix {
+    color: #0080FF;
+    }

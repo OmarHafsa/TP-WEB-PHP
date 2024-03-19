@@ -1,0 +1,12 @@
+#menu {
+    background-color: silver;
+    width:120px;
+    margin-left:100px;
+    }
+    #menu a{
+    display:block;
+    color:yellow;
+    }
+    #contenu{
+    margin-left:100px;
+    }

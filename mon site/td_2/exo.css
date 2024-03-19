@@ -1,0 +1,42 @@
+table{
+    border-collapse: collapse;
+    border: 3px solid black;
+    
+}
+td{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 8px;
+    text-align-last:center;
+}
+
+*{
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.bo{
+    border: 3px solid black;
+    border-radius: 12px;
+    padding: 2px;
+    width: 400px;
+}
+.four{
+    margin-left: 82px;
+}
+.five{
+    margin-left: 134px;
+   
+}
+button{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 7px;
+    border-radius: 8px;
+    margin-top: 7px;
+    margin-left: 110px;
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

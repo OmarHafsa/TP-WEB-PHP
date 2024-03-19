@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-style: italic;
+}
+h2{
+    color: green;
+    text-decoration: underline;
+}
+p{
+    text-align : justify;
+}
+ul,ol{
+    color: rgb(121, 120, 120);
+}
